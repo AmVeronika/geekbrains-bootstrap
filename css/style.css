@@ -1,0 +1,28 @@
+body {
+  height: 100vh;
+}
+
+.pb-h {
+  padding: 5px 0 10px;
+}
+
+.promo-bg {
+  background: url(../img/header-bg.jpg);
+}
+
+.p-p {
+  padding: 176px 0;
+  margin: 0;
+}
+
+.text-black {
+  color: black;
+}
+
+.bi-envelope-fill, .bi-github, .bi-telegram {
+  font-size: 30px;
+}
+
+.d-ib {
+  display: inline-block;
+}
